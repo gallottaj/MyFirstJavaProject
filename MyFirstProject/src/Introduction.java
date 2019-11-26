@@ -1,6 +1,6 @@
 
 public class Introduction {
 public static void main (String[]args) {
-	System.out.println("hello there!");
+	System.out.println("testing, hi there!");
 	}
 }
